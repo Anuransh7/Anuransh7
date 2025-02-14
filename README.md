@@ -8,7 +8,7 @@
 
 ---
 
-### 🔧 Technologies & Tools  
+### 🔧 Technologies Known 
 ![MERN Stack](https://img.shields.io/badge/-MERN-222?logo=mongodb&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
@@ -21,10 +21,32 @@
 
 ---
 
-### 📈 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anuransh7&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuransh7&layout=compact&theme=dark)  
+## 🔥 GitHub Achievements  
+
+![GitHub Followers](https://img.shields.io/github/followers/Anuransh7?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/Anuransh7?style=social)  
+![Profile Visits](https://komarev.com/ghpvc/?username=Anuransh7&label=Profile+Visits&color=blue&style=plastic)  
+![Contributions](https://badges.pufler.dev/commits/all/Anuransh7)  
+![Public Repositories](https://img.shields.io/github/repo-count/Anuransh7?color=orange&label=Public%20Repositories&logo=github)
 
 ---
 
-⭐ **Follow me for more!** 🚀  
+## 🎯 Current Goals  
+ 
+- 🚀 Contributing to **Open Source Projects**  
+- 🌍 Learning **Cloud & Backend Technologies**  
+- 🛠️ Building innovative **MERN Stack Projects**
+
+---
+
+### 📈 GitHub Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anuransh7&theme=dark&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuransh7&show_icons=true&theme=dark)  
+
+
+---
+
+📩 **Email:** anuranshsrivastava84@gmail.com  
+
+⭐ **If you like my profile, consider giving a star to my repositories!** 🚀  
+
