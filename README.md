@@ -27,7 +27,6 @@
 ![GitHub Stars](https://img.shields.io/github/stars/Anuransh7?style=social)  
 ![Profile Visits](https://komarev.com/ghpvc/?username=Anuransh7&label=Profile+Visits&color=blue&style=plastic)  
 ![Contributions](https://badges.pufler.dev/commits/all/Anuransh7)  
-![Public Repositories](https://img.shields.io/github/repo-count/Anuransh7?color=orange&label=Public%20Repositories&logo=github)
 
 ---
 
